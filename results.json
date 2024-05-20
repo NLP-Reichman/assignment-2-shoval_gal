@@ -1,0 +1,17 @@
+{
+  "test_read_data_data_types": {
+    "is_data_list": true,
+    "is_data_first_element_list": true,
+    "is_data_first_element_first_item_tuple": true
+  },
+  "test_read_data_len_train_data": {
+    "train_data_length": 9521
+  },
+  "test_generate_vocabs": {
+    "vocab_size": 19873,
+    "num_tags": 18
+  },
+  "test_hmm": "NameError(\"name 'precision_hmm' is not defined\")",
+  "test_embeddings_model": "NameError(\"name 'precision_embeddings' is not defined\")",
+  "test_nltk_tagger": "NameError(\"name 'accuracy_tnt_pos_tagger' is not defined\")"
+}
